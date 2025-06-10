@@ -1,0 +1,15 @@
+
+sam_checkpoint: "/home/ekanshgupta92/checkpoints/sam2_hiera_large.pth"
+textvqa_path: "/home/ekanshgupta92/textvqa/textvqa.json"
+textvqa_image_dir: "/home/ekanshgupta92/textvqa/images"
+coco_dir: "/home/ekanshgupta92/coco/train2017"
+coco_annotations: "/home/ekanshgupta92/coco/annotations/instances_train2017.json"
+max_scenes: 30
+max_textvqa: 300
+max_coco: 300
+epochs: 3
+batch_size: 4
+gradient_accumulation_steps: 2
+learning_rate: 2e-5
+save_steps: 200
+fine_tune_output: "trained_vlm"

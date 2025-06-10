@@ -1,0 +1,81 @@
+Image 1/10: ai2thor_ai2thor_8_49_71.png
+Question: What objects do you see in this image?
+Answer: table, chair, wall, floor  # Correct
+
+Image 2/10: ai2thor_ai2thor_6_68_70.png
+Question: Is there a table in the scene?
+Answer: Yes  # Correct 
+
+Image 3/10: ai2thor_ai2thor_8_0_12.png
+Question: What objects do you see in this image?
+Answer: desk, sofa, window  # Incorrect 
+
+Image 4/10: ai2thor_ai2thor_5_17_35.png
+Question: What objects do you see in this image?
+Answer: table, chair, cabinet, floor  # Correct
+
+Image 5/10: ai2thor_ai2thor_1_28_42.png
+Question: What objects do you see in this image?
+Answer: desk, lamp, rug  # Incorrect 
+
+Image 6/10: ai2thor_ai2thor_4_49_66.png
+Question: What objects do you see in this image?
+Answer: chair, table, wall  # Correct
+
+Image 7/10: ai2thor_ai2thor_0_12_55.png
+Question: Is there a table in the scene?
+Answer: No  # Correct 
+
+Image 8/10: ai2thor_ai2thor_0_31_64.png
+Question: How many furniture items can you identify?
+Answer: 3  # Incorrect 
+
+Image 9/10: ai2thor_ai2thor_2_7_41.png
+Question: How many furniture items can you identify?
+Answer: 4  # Correct 
+
+Image 10/10: ai2thor_ai2thor_5_4_55.png
+Question: What objects do you see in this image?
+Answer: desk, floor, door  # Incorrect 
+
+Processing coco:
+
+Image 1/10: coco_000000479008.jpg_13_14.png
+Question: Are there any people in this image?
+Answer: No  # Correct 
+
+Image 2/10: coco_000000468541.jpg_1_4.png
+Question: What objects do you see in this image?
+Answer: table, chair, floor  # Correct
+
+Image 3/10: coco_000000451468.jpg_5_19.png
+Question: Describe the spatial relationship between objects.
+Answer: The table is to the right of the chair; the chair is in front of the wall  # Correct
+
+Image 4/10: coco_000000073861.jpg_3_16.png
+Question: Describe the spatial relationship between objects.
+Answer: Objects are unrelated  # Incorrect 
+
+Image 5/10: coco_000000040986.jpg_2_10.png
+Question: Describe the spatial relationship between objects.
+Answer: The chair is to the left of the table; the table is near the floor  # Correct
+
+Image 6/10: coco_000000010643.jpg_3_4.png
+Question: What objects do you see in this image?
+Answer: desk, lamp, rug  # Incorrect 
+
+Image 7/10: coco_000000122953.jpg_3_4.png
+Question: What objects do you see in this image?
+Answer: floor, wall, table  # Correct
+
+Image 8/10: coco_000000165547.jpg_1_6.png
+Question: Are there any people in this image?
+Answer: Yes  # Incorrect 
+
+Image 9/10: coco_000000216320.jpg_0_2.png
+Question: Are there any people in this image?
+Answer: No  # Correct
+
+Image 10/10: coco_000000438723.jpg_3_5.png
+Question: Are there any people in this image?
+Answer: Yes  # Incorrect 
